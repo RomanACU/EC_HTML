@@ -8,6 +8,7 @@ html{
   }
   img.left{
     float:left;
+    /* clear:right; */
   }
   .imgright{
     margin: 15px;
