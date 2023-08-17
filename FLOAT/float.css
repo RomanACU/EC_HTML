@@ -1,0 +1,19 @@
+html{
+    font-family: helvetica;
+  }
+  img{
+    width: 200px;
+    margin: 10px;
+    float:right;
+  }
+  img.left{
+    float:left;
+  }
+  .imgright{
+    margin: 15px;
+   float:right; 
+  }
+  .imgleft{
+    margin: 15px;
+    float:left; 
+  }
